@@ -1,0 +1,16 @@
+
+/* Make sold price lime green */
+.li .bidsold {
+	color: #6EC529 !important;
+}
+
+/* Make "Sold" and it's border lime green */
+.li td.bids span.sold {
+	color: #6EC529 !important;
+	border: 1px solid #6EC529 !important;
+}
+
+/* Make "Sold" and it's border lime green */
+.li .binsold {
+	color: #D32727 !important;
+}

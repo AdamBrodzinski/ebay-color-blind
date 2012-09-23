@@ -10,7 +10,7 @@
 	border: 1px solid #6EC529 !important;
 }
 
-/* Make "Sold" and it's border lime green */
+/* Make not sold price a darker red */
 .li .binsold {
 	color: #D32727 !important;
 }
